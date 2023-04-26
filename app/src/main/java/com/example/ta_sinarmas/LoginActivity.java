@@ -10,6 +10,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.ta_sinarmas.activity.MainActivity;
+
 public class LoginActivity extends AppCompatActivity {
 
     TextView regis;
